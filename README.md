@@ -98,12 +98,7 @@ cd backend
 node seed.js
 
 
-Troubleshooting
-MongoDB connection error - Check your MONGODB_URI in .env file
-
-Frontend can't connect - Make sure backend is running on port 5000
-
-Port already in use - Change PORT number in .env files
+Screenshots are provided 
 
 
 Requirements Met
