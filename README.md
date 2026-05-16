@@ -21,33 +21,7 @@ A full-stack web application where homeowners can post service requests and trad
 - ODM: Mongoose
 
 
- 📁 Project Structure
 
-service-request-board/
-├── backend/
-│   ├── models/
-│   │   └── JobRequest.js
-│   ├── routes/
-│   │   └── jobs.js
-│   ├── server.js
-│   ├── seed.js
-│   ├── .env.example
-│   └── package.json
-└── frontend/
-    ├── src/app/
-    │   ├── components/
-    │   │   ├── Navbar.js
-    │   │   ├── JobCard.js
-    │   │   ├── AlertMessage.js
-    │   │   └── CategoryFilter.js
-    │   ├── jobs/
-    │   │   ├── new/page.js
-    │   │   └── [id]/page.js
-    │   ├── layout.js
-    │   ├── page.js
-    │   └── globals.css
-    ├── .env.example
-    └── package.json
 
 Setup Instructions
 Prerequisites
